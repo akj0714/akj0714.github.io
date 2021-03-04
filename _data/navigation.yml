@@ -6,3 +6,5 @@
   link: /contact/
 - name: Posting
   link: /posting/ 
+- name: Post
+  link: _posts
